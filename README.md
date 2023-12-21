@@ -64,5 +64,7 @@ print("----------------------------------------------------------------------")
 ```
 
 ## Output
+![image](https://github.com/TimmapuramYogeeswar/Open-Jacson-Networks/assets/154494746/1598d49e-23e1-40bd-b07d-b1e35a22ebf1)
+
 
 ## Result
